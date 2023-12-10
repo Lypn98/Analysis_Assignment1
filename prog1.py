@@ -209,10 +209,14 @@ if (__name__ == "__main__"):
   R2.append(R2_2022)
 
   years = range(2011,2023)
-  
+
   plt.plot(years,R2)
   plt.title('Graph of R2')
   plt.xlabel('Year')
   plt.ylabel('R2')
   plt.show()
+
+  ##### (10)決定係数の変化の傾向
+  print('このグラフを見ると、2016年の境に決定係数の値が現象していることがわかる。これは2016年以降の値が回帰直線から遠い位置にプロットされていることや、回帰直線の精度をさげてる要因だと言える。')
+  
 
