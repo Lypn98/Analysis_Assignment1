@@ -1,0 +1,96 @@
+PA,Inning,Result,Launch Angle [deg],Hit distance [feet]
+1,1,Single,-50,3
+2,1,Flyout,26,309
+3,1,Groundout,-44,3
+4,1,Strikeout,,
+5,1,Strikeout,,
+6,1,Double,7,158
+7,1,Lineout,9,142
+8,2,Flyout,34,336
+9,2,Strikeout,,
+10,2,Double,9,161
+11,2,Strikeout,,
+12,2,Strikeout,,
+13,2,Strikeout,,
+14,2,Walk,,
+15,2,Single,12,234
+16,2,Home Run,24,384
+17,2,Strikeout,,
+18,3,Walk,,
+19,3,Strikeout,,
+20,3,Single,14,266
+21,3,Groundout,-58,4
+22,3,Single,-4,20
+23,3,Pop Out,76,96
+24,3,Groundout,-15,10
+25,3,Strikeout,,
+26,3,Strikeout,,
+27,4,Strikeout,,
+28,4,Strikeout,,
+29,4,Walk,,
+30,4,Walk,,
+31,4,Double,15,204
+32,4,Flyout,34,318
+33,4,Field Error,-14,11
+34,4,Strikeout,,
+35,4,Double,18,349
+36,4,Strikeout,,
+37,5,Groundout,-6,16
+38,5,Flyout,38,374
+39,5,Groundout,1,59
+40,5,Groundout,-37,5
+41,5,Strikeout,,
+42,5,Strikeout,,
+43,6,Lineout,15,174
+44,6,Flyout,37,340
+45,6,Strikeout,,
+46,6,Single,8,237
+47,6,Single,12,165
+48,6,Strikeout,,
+49,6,Strikeout,,
+50,6,Forceout,-6,24
+51,7,Single,-10,15
+52,7,Single,3,96
+53,7,Single,-10,16
+54,7,Strikeout,,
+55,7,Sac Fly,31,390
+56,7,Single,17,288
+57,7,Home Run,24,398
+58,7,Groundout,-3,35
+59,7,Walk,,
+60,7,Forceout,-46,3
+61,7,Home Run,29,424
+62,7,Strikeout,,
+63,7,Walk,,
+64,7,Single,14,213
+65,7,Single,22,218
+66,7,Home Run,27,386
+67,7,Strikeout,,
+68,8,Single,15,178
+69,8,Home Run,33,373
+70,8,Groundout,-27,5
+71,8,Lineout,21,349
+72,8,Single,5,110
+73,8,Strikeout,,
+74,8,Groundout,-85,2
+75,8,Strikeout,,
+76,8,Flyout,43,324
+77,9,Groundout,3,78
+78,9,Single,-55,3
+79,9,Lineout,14,336
+80,9,Single,-1,39
+81,9,Single,9,117
+82,9,Pop Out,60,189
+83,9,Home Run,32,404
+84,9,Single,-3,31
+85,9,Single,2,60
+86,9,Single,8,124
+87,9,Groundout,-24,7
+88,9,Single,13,272
+89,9,Strikeout,,
+90,9,Flyout,26,369
+91,10,Flyout,52,248
+92,10,Strikeout,,
+94,10,Pop Out,69,83
+95,10,Flyout,38,287
+97,10,Forceout,-6,19
